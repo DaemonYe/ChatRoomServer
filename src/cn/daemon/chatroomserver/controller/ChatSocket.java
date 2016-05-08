@@ -74,7 +74,7 @@ public class ChatSocket extends Thread {
 
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			// e.printStackTrace();
 		} finally {
 			disConnect();
 		}
